@@ -21,8 +21,3 @@ class Dog
 
 end
 
-fido = Dog.new("Fido")
-fido.name
-
-mutt = Dog.new("Mutt")
-mutt.breed
