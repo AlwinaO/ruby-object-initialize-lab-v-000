@@ -9,4 +9,6 @@ end
 
 fido = Dog.new("Fido")
 fido.name
-fido.breed
+
+mutt = Dog.new("Mutt")
+mutt.breed
