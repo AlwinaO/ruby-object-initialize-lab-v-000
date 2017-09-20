@@ -24,5 +24,4 @@ end
 
 fido, mutt = Dog.new("Fido", "Mutt")
 fido.name
-mutt.breed
-
+fido.breed
